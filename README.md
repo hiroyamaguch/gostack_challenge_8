@@ -27,7 +27,7 @@ $ yarn
 # ou
 $ npm install
 
-# Configure as variáveis de ambiente no arquivo .env.example e renomeie o arquivo para .env
+# Configure a variável de ambiente com a url do banco de dados no arquivo .env.example. Depois renomeie o arquivo para .env e salve as alterações
 
 # Execute as migrations
 $ yarn typeorm migration:run
