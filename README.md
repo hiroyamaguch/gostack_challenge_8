@@ -2,7 +2,7 @@
 Diretório do projeto original nest [link](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-database-relations).
 
 # Sobre o projeto
-Este é o back-end desenvolvido para o desafio Conceitos do Node.js do curso GoStack da Rocketseat. O front-end dessa aplicação está disponível [aqui](https://github.com/hiroyamaguch/gostack_challenge_2). O front-end mobile dessa aplicação está disponível [aqui](https://github.com/hiroyamaguch/gostack_challenge_3).
+Este back-end foi desenvolvido para o desafio Database Relations do curso GoStack da Rocketseat e tem por objetivo trabalhar os conceitos de TypeORM e ManyToMany
 
 # Tecnologias utilizadas
 - JavaScript / TypeScript
