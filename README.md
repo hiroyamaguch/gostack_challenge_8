@@ -1,10 +1,20 @@
-# Desafio GoStack - Database Relations
-Diretório do projeto original nest [link](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-database-relations).
+<p align="center">
+  <img alt="GoStack Logo" src="https://github.com/hiroyamaguch/assets/blob/de8f5bb7126d7a27664f154dfdaffa782d36b38d/gostack/gostack.png">
+</p>
 
-# Sobre o projeto
+<h3 align="center">
+  Desafio GoStack - Database Relations
+</h3>
+
+<p align="center">
+  <a href="#memo-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-como-executar-o-projeto">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-database-relations">Projeto Original</a>
+</p>
+
+## :memo: Sobre o projeto
 Este back-end foi desenvolvido para o desafio Database Relations do curso GoStack da Rocketseat e tem por objetivo trabalhar os conceitos de TypeORM e ManyToMany.
-
-# Tecnologias utilizadas
+#### Tecnologias utilizadas
 - JavaScript / TypeScript
 - [Node.js](https://nodejs.org/en/)
 - [Jest](https://jestjs.io/pt-BR/)
@@ -12,9 +22,10 @@ Este back-end foi desenvolvido para o desafio Database Relations do curso GoStac
 - [Eslint](https://eslint.org/)
 - [PostgreSQL](https://www.postgresql.org/)
 
-# Como executar o projeto
+## :rocket: Como executar o projeto
 Pré-requisitos: npm / yarn
 
+##### Executando o servidor
 ```bash
 # Clone este repositório
 git clone https://github.com/hiroyamaguch/gostack_challenge_8.git
@@ -39,10 +50,6 @@ $ npm run typeorm migration:run
 $ yarn dev:server
 # ou
 $ npm run dev:server
+
+# O servidor vai estar rodando no endereço http://localhost:3333
 ```
-
-# Autor
-
-Pedro Antônio Hiroyuki Yamaguchi
-
-https://www.linkedin.com/in/hiroyamaguch/
